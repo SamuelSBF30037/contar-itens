@@ -1,0 +1,89 @@
+{
+    "config": {
+      "caseSensitive": false,
+      "wholeWords": true,
+      "autoCount": true
+    },
+    "categories": [
+      {
+        "name": "Produtividade",
+        "terms": [
+          {
+            "term": "FOS",
+            "alias": "Sgt Fabiane"
+          },
+          {
+            "term": "RNMM",
+            "alias": "Sgt Niedson"
+          },{
+            "term": "EBS",
+            "alias": "Sgt Eduardo"
+          },
+{
+            "term": "SBF",
+            "alias": "TEN Fernandes"
+          },{
+            "term": "DTO",
+            "alias": "Sgt Tobias"
+          },{
+            "term": "ETM",
+            "alias": "Sgt Tomaz"
+          },{
+            "term": "CRDO",
+            "alias": "Sgt Carolina"
+          },{
+            "term": "HARIJ",
+            "alias": "Sgt Hassan"
+          },{
+            "term": "RDF",
+            "alias": "Sgt Freitas"
+          },{
+            "term": "JBM",
+            "alias": "Sgt Borges"
+          },
+          {
+            "term": "JBR",
+            "alias": "Sgt Jeane"
+          },{
+            "term": "ALR",
+            "alias": "Sgt Ramos"
+          },{
+            "term": "RVS",
+            "alias": "Sgt Reinaldo"
+          },{
+            "term": "AMP",
+            "alias": "ST Porto"
+          },
+          {
+            "term": "CTJR",
+            "alias": "Sgt Cintia"
+          }
+        ]
+      },
+      {
+        "name": "Tipo de Matéria",
+        "terms": [
+          {
+            "term": "curso",
+            "alias": "Curso"
+          },
+          {
+            "term": "certificado",
+            "alias": "Curso"
+          },
+          {
+            "term": "estagio",
+            "alias": "Curso"
+          },
+          {
+            "term": "conclusão",
+            "alias": "Curso"
+          },
+          {
+            "term": "LICENCIAMENTO A PEDIDO",
+            "alias": "licenciamento"
+          }
+        ]
+      }
+    ]
+  }
